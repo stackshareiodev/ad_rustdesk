@@ -3,29 +3,29 @@
 ## Tech Stack
 stackshareiodev/ad_rustdesk is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [C++](http://www.cplusplus.com/) – Languages
-- [Rust](http://www.rust-lang.org/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
 - [Dart](https://www.dartlang.org/) – Languages
-- [Debian](https://www.debian.org/) – Operating Systems
-- [CMake](http://www.cmake.org/) – Java Build Tools
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Kotlin](https://kotlinlang.org/) – Languages
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Rust](http://www.rust-lang.org/) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Istio](https://istio.io/) – Microservices Tools
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- [Android OS](https://www.android.com) – Operating Systems
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [CMake](http://www.cmake.org/) – Java Build Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Istio](https://istio.io/) – Microservices Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Android OS](https://www.android.com) – Operating Systems
+- [Debian](https://www.debian.org/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -35,29 +35,29 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 stackshareiodev/ad_rustdesk is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/7180/flutter-mark-square-100.png' alt='Flutter'/> [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -68,7 +68,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_rustdesk](https://github.com/stackshareiodev/ad_rustdesk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|02/07/24 <br/>Report generated|
+|31<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
