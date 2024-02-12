@@ -1,8 +1,8 @@
 repo_name: stackshareiodev/ad_rustdesk
-report_id: fe8b14a23015b0d5cfb5475e3167cb2f
+report_id: 4065b529f1b173c7d0b49cf16ae407f1
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-09T13:13:25+00:00'
+timestamp: '2024-02-12T10:34:12+00:00'
 requested_by: wesley800
 provider: github
 branch: master
@@ -126,7 +126,7 @@ tools:
   detection_source_url: https://github.com/stackshareiodev/ad_rustdesk
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -175,7 +175,7 @@ tools:
   last_updated_by: rustdesk
   last_updated_on: 2024-01-19 07:35:58.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
